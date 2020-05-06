@@ -1,0 +1,17 @@
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\bin\Debug\Графический редактор.exe
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\bin\Debug\Графический редактор.pdb
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\obj\x86\Debug\Графический_редактор.Form1.resources
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\obj\x86\Debug\Графический_редактор.Properties.Resources.resources
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\obj\x86\Debug\Графический редактор.csproj.GenerateResource.Cache
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\obj\x86\Debug\Графический редактор.exe
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\obj\x86\Debug\Графический редактор.pdb
+D:\_Сайты\csharp-novichku.ucoz.org\load\prog_pod_win\graphika_2d\Графический редактор\obj\x86\Debug\Графический редактор.csprojResolveAssemblyReference.cache
+C:\Users\WEXLE\Desktop\nu\bin\Debug\Графический редактор.exe
+C:\Users\WEXLE\Desktop\nu\bin\Debug\Графический редактор.pdb
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.csprojAssemblyReference.cache
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический_редактор.Form1.resources
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический_редактор.Properties.Resources.resources
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.csproj.GenerateResource.cache
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.csproj.CoreCompileInputs.cache
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.exe
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.pdb

@@ -1,0 +1,9 @@
+C:\Users\WEXLE\Desktop\nu\bin\Debug\Графический редактор.exe
+C:\Users\WEXLE\Desktop\nu\bin\Debug\Графический редактор.pdb
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\paintconvert.csprojAssemblyReference.cache
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический_редактор.Form1.resources
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический_редактор.Properties.Resources.resources
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\paintconvert.csproj.GenerateResource.cache
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\paintconvert.csproj.CoreCompileInputs.cache
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.exe
+C:\Users\WEXLE\Desktop\nu\obj\x86\Debug\Графический редактор.pdb
